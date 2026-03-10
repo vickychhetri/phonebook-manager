@@ -1,3 +1,5 @@
+<img width="792" height="702" alt="image" src="https://github.com/user-attachments/assets/56b1ad61-9a1a-4506-b9cb-beb4a6d9fa17" />
+
 # Install 32-bit development libraries
 sudo dnf install glibc-devel.i686 libstdc++-devel.i686 libgcc.i686
 
